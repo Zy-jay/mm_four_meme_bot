@@ -1,0 +1,12 @@
+
+node_modules
+.nyc_output
+yarn-error.log
+.env
+build
+.lock
+yarn.lock
+
+# Local Netlify folder
+.netlify
+*.sqlite3
